@@ -18,6 +18,7 @@ Package.onUse(function(api) {
 
   api.imply([
     'd4nyll:epic',
+    'markdown'
     ]);
 
   api.addFiles([
